@@ -18,3 +18,5 @@ ZSH_AUTOSUGGEST_USE_ASYNC=true
 bindkey '^ ' autosuggest-accept
 source $PLUGINDIR/zsh-autosuggestions/zsh-autosuggestions.zsh
 
+source $PLUGINDIR/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
