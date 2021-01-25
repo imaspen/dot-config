@@ -10,3 +10,7 @@
 	path = vim/pack/dist/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
 	branch = master
+[submodule "zsh/plugins/zsh-autosuggestions"]
+	path = zsh/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
+	branch = master
