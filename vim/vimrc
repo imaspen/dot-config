@@ -1,0 +1,25 @@
+source ~/.config/vim/workmanrc
+
+set runtimepath+=~/.config/vim,~/.config/vim/after
+set viminfo+=n~/.config/vim/viminfo
+
+set nocompatible
+filetype off
+
+filetype plugin indent on
+syntax on
+set hidden
+
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set ignorecase
+set smartcase
+
+set number
+
+set mouse=a
+
+let g:airline_theme="dark"
+let g:airline_powerline_fonts=1
+

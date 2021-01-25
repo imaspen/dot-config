@@ -1,0 +1,12 @@
+[submodule "zsh-autosuggestions"]
+	path = zsh/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
+	branch = master
+[submodule "vim-airline"]
+	path = vim/pack/dist/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+	branch = master
+[submodule "vim-airline-themes"]
+	path = vim/pack/dist/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+	branch = master
